@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Shivani Tiwari
+- 👀 I’m interested in coding and learning new tech and things...
+- 🌱 I’m currently learning golang ,AWS...
+- 📫 How to reach me shivanitiwari761@gmail.com...
+
+<!---
+shivanitiwari761/shivanitiwari761 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
